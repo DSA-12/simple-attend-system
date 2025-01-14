@@ -8,7 +8,7 @@ struct Student
 {
     string name;
     int rollnumber;
-    int totalcalsses = 0;
+    int totalcalsses = 100;
     int atend = 0;
 
     double getatend() const
