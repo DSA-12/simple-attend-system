@@ -1,4 +1,5 @@
 # simple-attend-system
 
-it is a personal project to improve my coding skils 
-pls if u want to update some thing make it very simple so i can understand it and pls put discription for what u did ty <3
+"This is a personal project to help me improve my coding skills. If you'd like to contribute, please keep the updates simple so I can easily understand them. Also, kindly include a description explaining what changes you made. Thank you! ❤️"
+
+
